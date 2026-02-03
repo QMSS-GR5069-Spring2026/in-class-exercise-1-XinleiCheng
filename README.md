@@ -48,4 +48,4 @@ $ git commit -m "add test files"
 $ git push -u origin main
 ```
 
-Hellloo This the change made for the demo
+Hellloo This is the change made for the demo
